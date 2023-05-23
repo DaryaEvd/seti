@@ -1,0 +1,10 @@
+journalctl -xe
+systemctl status apache2.service
+systemctl status apache2.service -l --no-pager
+sudo ss -4 -tlnp | grep 80
+
+systemctl restart networking
+
+corosync-cfgtool -s
+
+systemctl status haproxy.service
