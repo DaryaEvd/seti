@@ -8,6 +8,8 @@ Labs from network course at NSU
 - [lab3](https://github.com/DaryaEvd/seti/tree/main/lab3_wifi) - WiFi
 - [lab4](https://github.com/DaryaEvd/seti/tree/main/lab4_rout_table_interpret) - Routing Table Interpretation  
 - [lab5](https://github.com/DaryaEvd/seti/tree/main/lab5_nat) - NAT
-- [lab6](https://github.com/DaryaEvd/seti/tree/main/lab6_cluster) - HA Cluster
+- [lab6](https://github.com/DaryaEvd/seti/tree/main/lab6_cluster) - HA Cluster  
+		[Мои доавбления к инструкции(из группы в вк)](https://github.com/DaryaEvd/seti/blob/main/lab6_cluster/seti_lab6_cluster.pdf)  
+
 
 - [test](https://github.com/DaryaEvd/seti/blob/main/test.pdf) - тест по "Мобильным сетям"
